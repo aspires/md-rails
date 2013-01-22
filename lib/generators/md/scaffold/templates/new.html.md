@@ -1,0 +1,5 @@
+# New <%= singular_table_name %>
+
+<%%= render 'form' %>
+
+<%%= link_to 'Back', <%= index_helper %>_path %>

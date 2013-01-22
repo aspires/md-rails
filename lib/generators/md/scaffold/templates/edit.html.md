@@ -1,0 +1,6 @@
+# Editing <%= singular_table_name %>
+
+<%%= render 'form' %>
+
+<%%= link_to 'Show', @<%= singular_table_name %> %> |
+<%%= link_to 'Back', <%= index_helper %>_path %>
