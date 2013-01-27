@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["austinspires@gmail.com"]
   s.homepage    = "http://github.com/aspires/md-rails"
   s.summary     = "Instant Markdown, just add... this"
-  s.description = "Md-rails gives you and instant Markdown template handler thats compatible with Rails 3. It also comes with some generators so you can automatically build with Markdown, not that you'd ever want to. But still, :boom:!"
+  s.description = "Md-rails gives you an instant Markdown template handler thats compatible with Rails 3. It also comes with some generators so you can automatically build with Markdown, not that you'd ever want to. But still, :boom:!"
   s.licenses    = ["MIT"]
 
   s.required_rubygems_version = ">= 1.3.6"
